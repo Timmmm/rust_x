@@ -1,2 +1,2 @@
 # rust_x
-List of Rust packages that are de facto standard library packages
+[See the wiki](https://github.com/Timmmm/rust_x/wiki/De-facto-Rust-standard-library-packages#the-list)
